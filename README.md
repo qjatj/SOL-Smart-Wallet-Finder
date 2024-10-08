@@ -21,4 +21,5 @@ npm install
 - Run script
 `node wallet-tracker.js`
 
-- The results of the script will be output to Excel folder with the list of wallets found
+- The results of the script will be output to an Excel file with the list of wallets found
+- Running `compare-wallets.js` script will scan wallets that show up in multiple contracts
